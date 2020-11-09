@@ -2,8 +2,7 @@
 #### Developer at [Akardoo](https://github.com/Akardoo) and OnlyMC
 
 # BIO
-                                     Hello, I'm from Colombia, I study programming personally.
-                              I will finish school the other year and then study systems engineering
+I like to code, I am a sports fan and my favorite sports are Volleyball and Soccer, my favorite video game is League Of Legends and Phasmophobia even though I can't play it.
 
 
 <!--
