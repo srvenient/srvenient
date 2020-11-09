@@ -1,6 +1,8 @@
 # Hi, I'm Nelson & I ❤️ programming
-
 ### Concurrent public and private projects
+
+# BIO
+    Hello, I'm from Colombia, I study programming personally.
 
 
 <!--
