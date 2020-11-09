@@ -1,4 +1,4 @@
-##### Hi, I'm Nelson & I ❤️ programming #####
+# Hi, I'm Nelson & I ❤️ programming
 
 
 <!--
