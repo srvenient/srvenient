@@ -1,8 +1,9 @@
 # Hi, I'm Nelson & I ❤️ programming
-#### Concurrent public and private projects
+#### Developer at @Akardoo and OnlyMC
 
 # BIO
                                      Hello, I'm from Colombia, I study programming personally.
+                              I will finish school the other year and then study systems engineering
 
 
 <!--
