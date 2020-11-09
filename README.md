@@ -6,6 +6,7 @@ I like to code, I am a sports fan and my favorite sports are Volleyball and Socc
 
 #### [Discord](https://discord.gg/8SGMjZB)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srvenient)](https://github.com/srvenient/github-readme-stats)
 
 
 
