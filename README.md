@@ -4,6 +4,10 @@
 # BIO
 I like to code, I am a sports fan and my favorite sports are Volleyball and Soccer, my favorite video game is League Of Legends and Phasmophobia even though I can't play it.
 
+#### [Discord](https://discord.gg/8SGMjZB)
+
+
+
 
 <!--
 **srvenient/srvenient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
