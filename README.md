@@ -1,5 +1,5 @@
 # Hi, I'm Nelson & I ❤️ programming
-#### Developer at (like https://github.com/Akardoo) and OnlyMC
+#### Developer at > Akardoo and OnlyMC
 
 # BIO
                                      Hello, I'm from Colombia, I study programming personally.
