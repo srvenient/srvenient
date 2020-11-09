@@ -4,7 +4,7 @@
 # BIO
 I like to code, I am a sports fan and my favorite sports are Volleyball and Soccer, my favorite video game is League Of Legends and Phasmophobia even though I can't play it.
 
-#### [Discord](https://discord.gg/8SGMjZB)
+#### [Discord](https://discord.gg/8SGMjZB) [Twitter](https://twitter.com/SrVenient)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srvenient)](https://github.com/srvenient/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvenient)](https://github.com/srvenient/github-readme-stats)
 
