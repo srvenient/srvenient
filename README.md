@@ -1,10 +1,15 @@
 # Hi, I'm Nelson & I ❤️ programming
-#### Developer at [Akardoo](https://github.com/Akardoo) and OnlyMC
+#### Developer at [Akardoo](https://github.com/Akardoo)
 
 # BIO
 I like to code, I am a sports fan and my favorite sports are Volleyball and Soccer, my favorite video game is League Of Legends and Phasmophobia even though I can't play it.
 
+<img align='right' src='https://64.media.tumblr.com/16d882a22dbabf45feb06594ea5ccd0c/981e9c2909643ddc-d5/s540x810/4331d499a54f7fd9ee229381a8aac6a22cfeb692.gifv' width='20%'>
+
 #### [Discord](https://discord.gg/8SGMjZB) / [Twitter](https://twitter.com/SrVenient) & [Spigot](https://www.spigotmc.org/members/srvenients.906603/)
+
+- ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
+- ![](https://img.shields.io/badge/API-Spigot-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srvenient)](https://github.com/srvenient/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvenient)](https://github.com/srvenient/github-readme-stats)
 
@@ -23,4 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- ![](https://img.shields.io/badge/Technologie-MongoDB-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
+- ![](https://img.shields.io/badge/Technologie-Morphia-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
 -->
