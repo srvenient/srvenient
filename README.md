@@ -1,6 +1,24 @@
-# Hi, I'm Nelson & I ❤️ programming
-#### Developer at [Akardoo](https://github.com/Akardoo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srvenient.readme.visitor-badge)
 
+<h1>Hey! I'm Nelson & I ❤️ programming.</h1>
+<h4>Developer at [Akardoo](https://github.com/Akardoo)<h4>
+<hr>
+<p align="center">
+  I currently live in Colombia, Bogota. I'm in 11th grade.
+  <br>
+  <br>
+  🎓 Studying at Universidad Anáhuac and taking online certifications
+  <br>
+  💻 I love making fullstack websites
+  <br>
+  🔬 I’m currently learning more languages
+  <br>
+  #### [Discord](https://discord.gg/8SGMjZB) / [Twitter](https://twitter.com/SrVenient) & [Spigot](https://www.spigotmc.org/members/srvenients.906603/)
+  <br>
+  ⚡ "Everyone should learn how to program and develop stuff, so I am a teacher too!"
+</p>
+<hr>
+  
 # BIO
 I like to code, I am a sports fan and my favorite sports are Volleyball and Soccer, my favorite video game is League Of Legends and Phasmophobia even though I can't play it.
 
@@ -32,3 +50,6 @@ Here are some ideas to get you started:
 - ![](https://img.shields.io/badge/Technologie-MongoDB-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
 - ![](https://img.shields.io/badge/Technologie-Morphia-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
 -->
+
+![stats](https://github-readme-stats.vercel.app/api?username=wasmake&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasmake&layout=compact)
