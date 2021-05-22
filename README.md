@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 - ![](https://img.shields.io/badge/Technologie-MongoDB-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
 - ![](https://img.shields.io/badge/Technologie-Morphia-informational?style=flat&logo=Languages&logoColor=blue&color=282bd1)
 -->
-
-![stats](https://github-readme-stats.vercel.app/api?username=wasmake&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasmake&layout=compact)
