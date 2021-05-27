@@ -4,7 +4,7 @@
 #### Developer at [Akardoo](https://github.com/Akardoo)
 
 # BIO
-I currently live in Colombia, Bogota. I'm in 11th grade, I am a Java developer specialized in making plugins for Spigot / Bukkit, and I am learning NodeJS.
+Hello, my name is Nelson Rodriguez Roa I'm 17 years old, I'm a Java developer and I'm learning NextJS, I'm currently finishing grade 11 and I live in Colombia.
 
 #### [Discord](https://discord.gg/8SGMjZB) / [Twitter](https://twitter.com/SrVenient) & [Spigot](https://www.spigotmc.org/members/srvenients.906603/)
 
